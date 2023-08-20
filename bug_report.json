@@ -1,1 +1,16 @@
-
+{
+"ID":"01",
+"Summary":"Git conquered",
+"Preconditions":"Git opened",
+"Severity":"minor",
+"Priority":"low" ,
+"Status":"opened",
+"Author":"IgorGA",
+"Assigned to":"QA",
+"Environment":"Windows11",
+"Steps to reproduce":"learn basic commands",
+"Actual result":"I think I know",
+"Expected result":"I know everything for sure",
+"Attachments":"screenshot"
+}
+  
