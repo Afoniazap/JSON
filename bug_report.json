@@ -1,7 +1,7 @@
 {
 "ID":"01",
-"Summary":"Git conquered",
-"Preconditions":"Git opened",
+"Summary":"git conquered",
+"Preconditions":"git opened",
 "Severity":"minor",
 "Priority":"low" ,
 "Status":"opened",
